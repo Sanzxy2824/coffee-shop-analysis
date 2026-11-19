@@ -4,6 +4,8 @@ Project portofolio analisis data: membersihkan data transaksi coffee shop (UMKM)
 
 🔗 **Dashboard:** https://coffee-shop-dashboard-c39.streamlit.app/
 
+<img width="1917" height="944" alt="image" src="https://github.com/user-attachments/assets/f37dd53f-9c44-4d55-b902-a6b2b906d69c" />
+
 **Tools:** Python, Pandas, Matplotlib, Seaborn, Plotly, Streamlit, Google Colab
 
 ## Pertanyaan Bisnis
